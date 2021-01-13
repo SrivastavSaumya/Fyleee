@@ -1,0 +1,86 @@
+
+/*     
+   border-top: 247px;
+    border-left: 150px;
+    width: 854px;
+    height: 231px;
+   
+    text-align: left;
+    font-style: normal normal bold 86px/122px ;
+    letter-spacing: 1.2px;
+    color: #181818;
+    opacity: 1; */
+ 
+#girl{
+    padding-top: 80px;
+   
+    width: 748px;
+    height: 712px;
+ }
+ #girl1{
+    padding-top: 80px;
+   
+    width: 478px;
+    height: 575px;
+ }
+ .lines{
+    padding-inline-start: 80px;width: 76.8;height: 35.63;
+ }
+ #text{
+    font-size: 68px;
+     text-align: left;
+     font-style:initial;
+     padding-top: 120px;
+     padding-left:80px;
+ }
+ #text1{
+    font-size: 48px;
+     text-align: left;
+     font-style:initial;
+     padding-top: 120px;
+     padding-left:80px;
+ }
+ #stext{
+    font-size: 21px;
+     text-align: left;
+     font-style:initial;
+     color: #747474;
+     padding-left:80px;
+ }
+ #btnstart{
+    border-radius: 32px ;
+    border: 5px;
+    background-color: #1C2333 ; 
+   
+     color:white;
+     
+ }
+ #rect{
+     padding-top: 3px;
+     padding-left: 280px;
+     
+     width: 60%;
+ }
+
+     
+
+ .card:hover {
+    transform:scale(1.1);
+  }
+  th{
+     padding-top: 30px;
+     padding-left: 15px;
+     text-align: left;
+  }
+  td{
+     padding: 15px;
+  }
+  table{
+     color: ivory;
+  }
+  #grad{
+   height: 200px;
+   background-color: red; /* For browsers that do not support gradients */
+   background-image: repeating-linear-gradient(45deg white 10%,yellow 7%,green 10%);
+ 
+  }
